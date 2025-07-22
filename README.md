@@ -81,6 +81,7 @@ Current experience in **Test Automation**, **C#**, **.NET**, and **Azure Devops*
     - [dashy](https://dashy.to/)
     - [NextCloud]()
     - [Gitea](https://about.gitea.com/)
+ - 🎮 Survival / Crafting / Multi-player enthusiast
 
 ---
 
