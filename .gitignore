@@ -1,0 +1,9 @@
+# Ignore it ALL!
+*
+
+# Except this
+!*.gitignore
+!*.png
+!*.jpg
+!*.md
+!*/
