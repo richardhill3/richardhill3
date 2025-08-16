@@ -2,7 +2,7 @@
 
 I'm a **Software Developer in Test** based in ![](img/ca.png) Ontario, Canada  ![](img/ca.png)
 
-Current experience in **Test Automation**, **C#**, **.NET**, and **Azure Devops**.
+Experienced in **Test Automation**, **C#**, **.NET**, and **Azure Devops**.
 
 ✨ **Currently looking for new opportunities in development, automation and testing**
 
@@ -10,6 +10,10 @@ Current experience in **Test Automation**, **C#**, **.NET**, and **Azure Devops*
 
 - ⚡I specialize in **API test automation**, **CI/CD pipelines**, and **software functional and performance testing**.
 - 📚 I am eager to learn new technologies and apply them in containers, cloud, Linux and Windows.
+
+### Training / Certification
+ - [Cybersecurity Essentials LFC108](https://www.credly.com/badges/288efe3b-c32a-4ee9-a83f-b424b615d6d0/public_url) - July 30, 2025
+ - [Python Complete Bootcamp](https://www.udemy.com/certificate/UC-ae4b23ad-c1fe-4cb3-9f8e-d940b66eb39a/) - August 16, 2025
 
 ## Applied Profession Experience
 ### Programming and Scripting:
@@ -49,7 +53,9 @@ Current experience in **Test Automation**, **C#**, **.NET**, and **Azure Devops*
     - pyTest w/ Behave
     - Appium nova-windows-driver
     - go
+
 --- 
+
 ### Roles 🌟
 
 - [Attabotics](https://attabotics.com/)
